@@ -1,16 +1,16 @@
 var cardsArray = [
   {    'name': 'CSS',    'img': 'https://cdn.drawception.com/images/avatars/848542-3E2.jpg?raw=true',  },
-  {    'name': 'HTML',    'img': 'https://github.com/robgmerrill/img/blob/master/html5-logo.png?raw=true',  },
-  {    'name': 'jQuery',    'img': 'https://github.com/robgmerrill/img/blob/master/jquery-logo.png?raw=true',  },
-  {    'name': 'JS',    'img': 'https://github.com/robgmerrill/img/blob/master/js-logo.png?raw=true',  },
-  {    'name': 'Node',    'img': 'https://github.com/robgmerrill/img/blob/master/nodejs-logo.png?raw=true',  },
-  {    'name': 'Photo Shop',    'img': 'https://github.com/robgmerrill/img/blob/master/photoshop-logo.png?raw=true',  },
-  {    'name': 'PHP',    'img': 'https://github.com/robgmerrill/img/blob/master/php-logo_1.png?raw=true',  },
-  {    'name': 'Python',    'img': 'https://github.com/robgmerrill/img/blob/master/python-logo.png?raw=true',  },
-  {    'name': 'Ruby',    'img': 'https://github.com/robgmerrill/img/blob/master/rails-logo.png?raw=true',  },
-  {    'name': 'Sass',    'img': 'https://github.com/robgmerrill/img/blob/master/sass-logo.png?raw=true',  },
-  {    'name': 'Sublime',    'img': 'https://github.com/robgmerrill/img/blob/master/sublime-logo.png?raw=true',  },
-  {    'name': 'Wordpress',    'img': 'https://github.com/robgmerrill/img/blob/master/wordpress-logo.png?raw=true',  },
+  {    'name': 'HTML',    'img': 'https://pbs.twimg.com/media/EZCRgu-WAAIwEBx.png',  },
+  {    'name': 'jQuery',    'img': 'https://i.redd.it/wggff5tz8sw21.jpg?raw=true',  },
+  {    'name': 'JS',    'img': 'https://static.wikia.nocookie.net/meme/images/f/fa/E.png/revision/latest/scale-to-width-down/340?cb=20180606022633?raw=true',  },
+  {    'name': 'Node',    'img': 'https://lh3.googleusercontent.com/proxy/kskhj6bN_D06YkdJ6Ec-_30sQLRxcgVXAfWDy9ec-CnLNBgJMhEl4kG1gHVahTRPsqAqbLiSeXDzLIHzzUdxxzbSe331Sj7PqqoCEtPHjC4LonoVVAWf3BOtAnSO0cAUq1NHIwmAL4unK_nVMlWng5p6V0JpWtws98SvKnpRsw3YMQMjtgfePg?raw=true',  },
+  {    'name': 'Photo Shop',    'img': 'https://steamuserimages-a.akamaihd.net/ugc/396679215190883236/A704D3410DCE4CDA368B20A81558A4BA4EB8D663/?raw=true',  },
+  {    'name': 'PHP',    'img': 'https://lh3.googleusercontent.com/proxy/rJLr7mMCTYIj_Rp5iKENGrhiJepAoqUDdeaLtB3kuJSSG2_BoE5McpA8OeUBf0HLyzgwS-xcpzIEHoZ_SQ',  },
+  {    'name': 'Python',    'img': 'https://i.pinimg.com/474x/14/15/b8/1415b85f8e1f7e1cdb9dfdc246926825.jpg',  },
+  {    'name': 'Ruby',    'img': 'https://github.com/Banana1265/Matching/blob/main/chciken%20nugget.jpg?raw=true',  },
+  {    'name': 'Sass',    'img': 'http://pa1.narvii.com/6864/46e6a4307c9cb1919313548dcde13be7fda95a68r1-226-236_00.gif',  },
+  {    'name': 'Sublime',    'img': 'https://i.redd.it/m1h5xf88m5g61.jpg',  },
+  {    'name': 'Wordpress',    'img': 'https://media1.tenor.com/images/cfa722629239e703540567e49f5ef754/tenor.gif?itemid=15958289',  },
 ];
 
 // Duplicate cardsArray to create a match for each card
